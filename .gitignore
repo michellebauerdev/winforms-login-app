@@ -13,4 +13,4 @@ obj/
 *.db-wal
 
 # OS files
-Thumbs.db
+Thumbs.db"*.csproj.user" 
